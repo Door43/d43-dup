@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dup:home|Door43 (dup)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dup|d43-dup repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dup/archive/master.zip|d43-dup.zip]]
+
+**Recent Changes**
+{{changes>ns = dup}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dup|Ethnologue data]]
+
